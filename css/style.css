@@ -192,4 +192,12 @@ main .the-center .the-center_left img {
 main .the-center .the-center_right {
   color: #a5a1ae;
   margin-top: -620px;
+}
+main .the-info .years {
+  display: flex;
+  padding-top: 400px;
+}
+main .the-info .years p {
+  margin-left: 100px;
+  color: #22A75D;
 }/*# sourceMappingURL=style.css.map */

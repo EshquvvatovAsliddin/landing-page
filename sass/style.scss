@@ -235,7 +235,16 @@ main {
             }
         }
     }
-
+    .the-info{
+        .years{
+            display: flex;
+            padding-top: 400px;
+            p{
+                margin-left: 100px;
+                color: #22A75D;
+            }
+        }
+    }
 
 
 
